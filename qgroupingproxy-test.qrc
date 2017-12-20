@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="folder">resources/folder.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resources/query.sql</file>
+        <file>resources/stylesheet.qss</file>
+        <file>resources/branch-end.png</file>
+        <file>resources/branch-more.png</file>
+        <file>resources/vline.png</file>
+    </qresource>
+</RCC>

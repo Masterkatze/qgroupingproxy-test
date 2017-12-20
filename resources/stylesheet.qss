@@ -1,0 +1,15 @@
+QTreeView::branch:has-siblings:!adjoins-item
+{
+    border-image: url(:/resources/vline.png) 0;
+}
+
+QTreeView::branch:has-siblings:adjoins-item
+{
+    border-image: url(:/resources/branch-more.png) 0;
+}
+
+QTreeView::branch:!has-children:!has-siblings:adjoins-item
+{
+    border-image: url(:/resources/branch-end.png) 0;
+}
+
